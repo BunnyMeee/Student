@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+}
+
+#result{
+    color:hotpink;
+    font-size: 20px;
+    font-weight: bold;
+}
+#sort{
+    display: none;
+    padding:10px;
+}
+#submit{
+    display: inline-block;
+    padding:10px;
+}
+input{
+    margin-left: 20px;
+    width: 200px;
+}
